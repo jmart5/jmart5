@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello! I'm Jonathan
 
-<!--
-**jmart5/jmart5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Engineer** | 🔧 **Problem Solver** | 🧩 **Multi-Disciplinary Engineer** | 🧠 **Tech Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I'm a passionate problem solver with a deep love for technology. Working as a software engineer provides me with opportunities to build innovative solutions. I thrive on solving complex problems and am always eager to learn new skills and technologies.
+
+### Skills
+
+I am proficient in multiple programming languages including Python, Java, JavaScript, Kotlin, C#, HTML, and CSS. My experience spans various frameworks such as React, Spring Boot, and NiceGUI. I have worked extensively with databases including MySQL and PostgreSQL. A few of the tools that I've worked with include Docker, Git, Jenkins, and cloud platforms like GCP. Additionally, I have a solid understanding of DevOps, CI/CD, microservices, and REST APIs.
+
+---
+
+Feel free to reach out if you want to collaborate on a project, discuss tech, or just say hi!
+
+---
+
